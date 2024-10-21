@@ -1,6 +1,6 @@
 # rehum
 
-This is the github repository for the manuscript: Rehumanizing the dehumanized: A test of strategies **currently under review**
+This is the github repository for the manuscript: Rehumanizing the dehumanized: A test of strategies **currently under review at Nature Human Behaviour**
 
 Analysis and task scripts are uploaded within the 'Final_scripts' folder. 'Final scripts' includes scripts used for analyses in FSL (in fsl folder), scripts used for behavioral analysis (in behavioral folder), scripts used for intersubject synchrony analyses (in ISC).
 
