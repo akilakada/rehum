@@ -13,7 +13,7 @@ Main author: Akila Kadambi
 Imaging data was acquired from Flywheel.io, part of Dornsife at USC's data uploading service
 
 **Analyses***
-GLM-based neuroimaging analyses were all conducted in FSL. Behavioral analyses were conducted with jupyter notebook, python, R, and SPSS. 
+GLM-based neuroimaging analyses were all conducted in FSL. Behavioral analyses were conducted in Jupyter Notebook (with Python), external Python scripts, R, and SPSS. 
 
 **Dependencies**
 FSL and Python (NiLearn, Brainiak, Scikit-learn, Scipy, NumPy) primarily
