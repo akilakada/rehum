@@ -16,4 +16,4 @@ Imaging data was acquired from Flywheel.io, part of Dornsife at USC's data uploa
 GLM-based neuroimaging analyses were all conducted in FSL. Behavioral analyses were conducted in Jupyter Notebook (with Python), external Python scripts, R, and SPSS. 
 
 **Dependencies**
-FSL and Python (NiLearn, Brainiak, Scikit-learn, Scipy, NumPy) primarily
+primary FSL and Python (NiLearn, Brainiak, Scikit-learn, Scipy, NumPy)
